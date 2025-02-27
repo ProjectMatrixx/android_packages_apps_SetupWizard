@@ -32,9 +32,9 @@
     <string name="location_access_summary"><b>Permettre aux applications ayant obtenu votre autorisation</b> d\'utiliser vos informations de localisation. Cela peut inclure votre position actuelle et les dernières positions.</string>
     <string name="location_agps_access_summary">Lorsque la localisation est activée, <b>téléchargez les données d\'assistance par satellite depuis internet</b>, ce qui peut grandement améliorer les performances de démarrage du GPS.</string>
     <string name="update_recovery_title">Mettre à jour la récupération de crDroid</string>
-    <string name="update_recovery_description">Met à jour crDroid Recovery au premier démarrage après chaque mise à jour.</string>
+    <string name="update_recovery_description">Met à jour Matrixx Recovery au premier démarrage après chaque mise à jour.</string>
     <string name="update_recovery_warning">La récupération sera mise à jour dès que vous aurez terminé la configuration. Si vous souhaitez la garder intacte, veuillez désactiver cette fonctionnalité.</string>
-    <string name="update_recovery_setting">Mettre à jour crDroid Recovery en même temps que le système d\'exploitation</string>
+    <string name="update_recovery_setting">Mettre à jour Matrixx Recovery en même temps que le système d\'exploitation</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_services">Fonctionnalités de crDroid</string>
     <string name="services_pp_explanation">Ces services fonctionnent pour étendre les fonctionnalités de votre appareil. Les données seront utilisées conformément à la politique de confidentialité de <xliff:g id="name" example="Matrixx">%1$s</xliff:g>.</string>

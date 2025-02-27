@@ -30,14 +30,9 @@
     <string name="intro_restore_button">Възстановяване от архив</string>
     <string name="setup_location">Услуги за местоположение</string>
     <string name="location_access_summary"><b>Разреши приложения, които са поискали разрешение</b> за да използва информацията за вашето местоположение. Това може да включва текущото местоположение и последните места.</string>
-<<<<<<< HEAD
     <string name="location_agps_access_summary">Когато местоположението е включено, <b>изтегли помощна сателитна информация от интернет</b>, за да повиши продуктивността на GPS при стартиране.</string>
     <string name="update_recovery_title">Актуализиране на Matrixx Recovery</string>
     <string name="update_recovery_description">Актуализира Matrixx Recovery при първо зареждане след всяка актуализация.</string>
-=======
-    <string name="update_recovery_title">Актуализиране на Matrixx Recovery</string>
-    <string name="update_recovery_description">Актуализира Matrixx Recovery при първо зареждане след всяка актуализация.</string>
->>>>>>> b1b2eaf (SetupWizard: Init Matrixx)
     <string name="update_recovery_warning">Recovery ще се актуализира веднага щом завършите настройката. Ако искате да го запазите непокътнат, деактивирайте тази функция.</string>
     <string name="update_recovery_setting">Актуализирайте Matrixx Recovery заедно с операционната система</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
